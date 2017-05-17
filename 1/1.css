@@ -1,1 +1,27 @@
+#red{
+  background: red;
+  height:100px;
+  width:100%;
+}
 
+#yellow{
+  background:yellow;
+  height:700px;
+  width:100%;
+}
+
+#blue{
+  background:blue;
+  margin-left: auto;
+  margin-right: auto;
+  height:650px;
+  width:80%;
+}
+
+#green{
+  background:green;
+  margin-left: auto;
+  margin-right: auto;
+  height:50px;
+  width:80%;
+}
