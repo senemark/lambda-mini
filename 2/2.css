@@ -1,1 +1,35 @@
+#red{
+  background:red;
+  width:900px;
+  height:700px;
+}
 
+#blue{
+  background:blue;
+  width:300px;
+  height:600px;
+  margin-top:100px;
+  float:left;
+}
+
+#purple{
+  background:purple;
+  width:300px;
+  height:600px;
+  margin-top:100px;
+  float:left;
+}
+
+#yellow{
+  background:yellow;
+  width:300px;
+  height:600px;
+  margin-top:100px;
+  float:left;
+}
+
+#green{
+  background:green;
+  width:900px;
+  height:100px;
+}
